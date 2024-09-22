@@ -1,1 +1,3 @@
 # Coffee-sales-analysis
+About Dataset
+This dataset is ideal for exploring the evolving sales trends over time, identifying peak customer traffic days, and delving into the performance metrics of various products. The dataset comprises transactional records from Maven Roasters, a fictional NYC-based coffee shop operating across three distinct locations. It encompasses comprehensive details such as transaction dates, timestamps, geographical specifics, and product-level information. Researchers can analyze the frequency of product sales, pinpoint top revenue drivers, and investigate factors contributing to fluctuations in sales volume.
